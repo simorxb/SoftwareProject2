@@ -1,0 +1,6 @@
+[submodule "Library1"]
+	path = Library1
+	url = ../Library1
+[submodule "Library2"]
+	path = Library2
+	url = ../Library2
